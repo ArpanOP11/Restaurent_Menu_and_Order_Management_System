@@ -1,4 +1,4 @@
-# 🍽️ **Restaurant ]**  
+# 🍽️ **Restaurant Menu and Order Management System**  
 
 A full-featured **Restaurant Menu and Order Management System System** built using the **MERN Stack** to streamline restaurant operations, enhance customer experience, and manage orders, payments, and inventory with ease.
 
