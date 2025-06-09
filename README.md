@@ -59,7 +59,8 @@ A full-featured **Restaurant Menu and Order Management System System** built usi
 
 <table>
   <tr>
-    <td><img src="" alt="Screenshot 1" width="300"/></td>
+    <td><img src="![XanAuthentic_MERN_Project_ss4](https://github.com/user-attachments/assets/71b2e58f-daf9-41e0-b901-af0d42fef9ce)
+" alt="Screenshot 1" width="300"/></td>
     <td><img src="" alt="Screenshot 2" width="300"/></td>
   </tr>
   <tr>
