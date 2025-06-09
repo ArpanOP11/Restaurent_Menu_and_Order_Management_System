@@ -1,6 +1,6 @@
-# 🍽️ **Restaurant POS System**  
+# 🍽️ **Restaurant ]**  
 
-A full-featured **Restaurant POS System** built using the **MERN Stack** to streamline restaurant operations, enhance customer experience, and manage orders, payments, and inventory with ease.
+A full-featured **Restaurant Menu and Order Management System System** built using the **MERN Stack** to streamline restaurant operations, enhance customer experience, and manage orders, payments, and inventory with ease.
 
 ## ✨ **Features**
 
