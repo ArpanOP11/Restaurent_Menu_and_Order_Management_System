@@ -36,10 +36,6 @@ A full-featured **Restaurant Menu and Order Management System System** built usi
 ---
 <br>
 
-## 📺 **YouTube Playlist**
-
-🎬 Follow the complete tutorial series on building this Restaurant System on YouTube:  
-👉 
 
 ## 📁 **Assets**
 
