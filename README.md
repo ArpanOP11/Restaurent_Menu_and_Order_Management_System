@@ -55,21 +55,9 @@ A full-featured **Restaurant Menu and Order Management System System** built usi
 
 ---
 
-## 🖼️ **Project Screenshots**
+## 🖼️ **Project Screenshots** [Google Drive]
 
-<table>
-  <tr>
-    <td><img src="![XanAuthentic_MERN_Project_ss1](https://github.com/user-attachments/assets/dcc61d97-9584-4330-ad35-fd4c152be0db)" alt="Screenshot 1" width="300"/></td>
-    <td><img src="" alt="Screenshot 2" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="" alt="Screenshot 3" width="300"/></td>
-    <td><img src="" alt="Screenshot 4" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="" alt="Screenshot 5" width="300"/></td>
-  </tr>
-</table>
+
 
 
 ✨ Feel free to explore, contribute, and enhance the project! 🚀
