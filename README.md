@@ -40,18 +40,19 @@ A full-featured **Restaurant Menu and Order Management System System** built usi
 ## 📁 **Assets**
 
 - 📦 **Project Assets:** [Google Drive]
+https://drive.google.com/drive/folders/1W4jDVNnCo2pVuBZAGqu9pP3zpK4kRiRj
 
 ---
 
 ## 📋 **Flow Chart for Project Structure**
 
-- 🗺️ **Visualize the Project Structure:** [View Flow Chart](https://app.eraser.io/workspace/IcU1b6EHu9ZyS9JKi0aY?origin=share)
+- 🗺️ **Visualize the Project Structure:** [View Flow Chart]
 
 ---
 
 ## 🎨 **Design Inspiration**
 
-- 💡 **UI/UX Design Reference:** [Behance Design](https://www.behance.net/gallery/210280099/Restaurant-POS-System-Point-of-Sale-UIUX-Design)
+- 💡 **UI/UX Design Reference:** [Behance Design]
 
 ---
 
