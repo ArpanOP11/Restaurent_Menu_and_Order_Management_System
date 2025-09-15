@@ -19,7 +19,7 @@
    ```
 3. **Navigate into the project directory**
    ```bash
-   cd Restaurant-POS-System
+   cd Restaurant-Menu-Management-System
    ```
 4. **Create a new branch** 🌿
    ```bash
