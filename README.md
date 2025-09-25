@@ -1,7 +1,6 @@
 # 🍽️ **Restaurant Menu and Order Management System**  
 
 A full-featured **Restaurant Menu and Order Management System** built using the **MERN Stack** to streamline restaurant operations, enhance customer experience, and manage orders, payments, and inventory with ease.
-A full-featured **Restaurant Menu and Order Management System System** built using the **MERN Stack** to streamline restaurant operations, enhance customer experience, and manage orders, payments, and inventory with ease.
 
 ## ✨ **Features**
 
@@ -48,6 +47,7 @@ https://drive.google.com/drive/folders/1W4jDVNnCo2pVuBZAGqu9pP3zpK4kRiRj
 ## 📋 **Flow Chart for Project Structure**
 
 - 🗺️ **Visualize the Project Structure:** [View Flow Chart]
+https://app.devin.ai/wiki/ArpanOP11/Restaurent_Menu_and_Order_Management_System
 
 ---
 
