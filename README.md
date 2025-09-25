@@ -1,6 +1,6 @@
-# 🍽️ **Restaurant POS System**  
+# 🍽️ **Restaurant Menu and Order Management System**  
 
-A full-featured **Restaurant POS System** built using the **MERN Stack** to streamline restaurant operations, enhance customer experience, and manage orders, payments, and inventory with ease.
+A full-featured **Restaurant Menu and Order Management System** built using the **MERN Stack** to streamline restaurant operations, enhance customer experience, and manage orders, payments, and inventory with ease.
 
 ## ✨ **Features**
 
@@ -44,6 +44,7 @@ A full-featured **Restaurant POS System** built using the **MERN Stack** to stre
 ## 📁 **Assets**
 
 - 📦 **Project Assets:** [Google Drive]
+https://drive.google.com/drive/folders/1W4jDVNnCo2pVuBZAGqu9pP3zpK4kRiRj
 
 ---
 
@@ -59,21 +60,10 @@ A full-featured **Restaurant POS System** built using the **MERN Stack** to stre
 
 ---
 
-## 🖼️ **Project Screenshots**
+## 🖼️ **Project Screenshots** [Google Drive]
 
-<table>
-  <tr>
-    <td><img src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1740502772/ibjxvy5o1ikbsdebrjky.png" alt="Screenshot 1" width="300"/></td>
-    <td><img src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1740502773/ietao6dnw6yjsh4f71zn.png" alt="Screenshot 2" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1740502772/vesokdfpa1jb7ytm9abi.png" alt="Screenshot 3" width="300"/></td>
-    <td><img src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1740502772/setoqzhzbwbp9udpri1f.png" alt="Screenshot 4" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1740502772/fc4tiwzdoisqwac1j01y.png" alt="Screenshot 5" width="300"/></td>
-  </tr>
-</table>
+https://drive.google.com/drive/folders/118t2rqwCmzJhVL2XdoCSRuSGxMJaY-86?usp=sharing
+
 
 
 ✨ Feel free to explore, contribute, and enhance the project! 🚀

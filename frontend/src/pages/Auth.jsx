@@ -7,7 +7,7 @@ import Login from "../components/auth/Login";
 const Auth = () => {
 
   useEffect(() => {
-    document.title = "POS | Auth"
+    document.title = "XanAuthentic | Auth"
   }, [])
 
   const [isRegister, setIsRegister] = useState(false);

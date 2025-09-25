@@ -15,11 +15,11 @@
 1. **Fork the repository** 📚
 2. **Clone your fork (Only the dev Branch)**
    ```bash
-   git clone --branch dev 
+   git clone --branch dev https://github.com/ArpanOP11/Restaurent_Menu_and_Order_Management_System
    ```
 3. **Navigate into the project directory**
    ```bash
-   cd Restaurant-POS-System
+   cd Restaurant-Menu-and-Order-Management-System
    ```
 4. **Create a new branch** 🌿
    ```bash
@@ -80,9 +80,17 @@
 
 ---
 
+## 🐝 Copyright Notice
+
+The UI of this project is **copyrighted content**. You **cannot** copy and sell it as your own product. Unauthorized use, redistribution, or resale of the UI is strictly prohibited.
+
+Original UI design can be found on [Behance](https://www.behance.net/gallery/210280099/Restaurant-POS-System-Point-of-Sale-UIUX-Design).
+
+---
+
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-Happy Coding! 💻🎉
+Happy Coding ~ArpanOP! 💻🎉
 

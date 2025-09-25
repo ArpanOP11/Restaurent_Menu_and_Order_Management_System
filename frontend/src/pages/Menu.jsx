@@ -11,7 +11,7 @@ import { useSelector } from "react-redux";
 const Menu = () => {
 
     useEffect(() => {
-      document.title = "POS | Menu"
+      document.title = "XanAuthentic | Menu"
     }, [])
 
   const customerData = useSelector((state) => state.customer);

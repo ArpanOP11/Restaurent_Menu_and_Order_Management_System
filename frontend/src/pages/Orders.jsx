@@ -11,7 +11,7 @@ const Orders = () => {
   const [status, setStatus] = useState("all");
 
     useEffect(() => {
-      document.title = "POS | Orders"
+      document.title = "XanAuthentic | Orders"
     }, [])
 
   const { data: resData, isError } = useQuery({
