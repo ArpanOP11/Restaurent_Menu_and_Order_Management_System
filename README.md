@@ -1,6 +1,7 @@
 # 🍽️ **Restaurant Menu and Order Management System**  
 
 A full-featured **Restaurant Menu and Order Management System** built using the **MERN Stack** to streamline restaurant operations, enhance customer experience, and manage orders, payments, and inventory with ease.
+A full-featured **Restaurant Menu and Order Management System System** built using the **MERN Stack** to streamline restaurant operations, enhance customer experience, and manage orders, payments, and inventory with ease.
 
 ## ✨ **Features**
 
@@ -36,10 +37,6 @@ A full-featured **Restaurant Menu and Order Management System** built using the 
 ---
 <br>
 
-## 📺 **YouTube Playlist**
-
-🎬 Follow the complete tutorial series on building this Restaurant System on YouTube:  
-👉 
 
 ## 📁 **Assets**
 
@@ -50,13 +47,13 @@ https://drive.google.com/drive/folders/1W4jDVNnCo2pVuBZAGqu9pP3zpK4kRiRj
 
 ## 📋 **Flow Chart for Project Structure**
 
-- 🗺️ **Visualize the Project Structure:** [View Flow Chart](https://app.eraser.io/workspace/IcU1b6EHu9ZyS9JKi0aY?origin=share)
+- 🗺️ **Visualize the Project Structure:** [View Flow Chart]
 
 ---
 
 ## 🎨 **Design Inspiration**
 
-- 💡 **UI/UX Design Reference:** [Behance Design](https://www.behance.net/gallery/210280099/Restaurant-POS-System-Point-of-Sale-UIUX-Design)
+- 💡 **UI/UX Design Reference:** [Behance Design]
 
 ---
 
@@ -64,6 +61,7 @@ https://drive.google.com/drive/folders/1W4jDVNnCo2pVuBZAGqu9pP3zpK4kRiRj
 
 https://drive.google.com/drive/folders/118t2rqwCmzJhVL2XdoCSRuSGxMJaY-86?usp=sharing
 
+---
 
 
 ✨ Feel free to explore, contribute, and enhance the project! 🚀
