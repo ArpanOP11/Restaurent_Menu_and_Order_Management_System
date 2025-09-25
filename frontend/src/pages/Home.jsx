@@ -10,7 +10,7 @@ import PopularDishes from "../components/home/PopularDishes";
 const Home = () => {
 
     useEffect(() => {
-      document.title = "POS | Home"
+      document.title = "XanAuthentic | Home"
     }, [])
 
   return (
