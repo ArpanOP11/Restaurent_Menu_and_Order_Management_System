@@ -10,7 +10,7 @@ const Tables = () => {
   const [status, setStatus] = useState("all");
 
     useEffect(() => {
-      document.title = "POS | Tables"
+      document.title = "XanAuthentic | Tables"
     }, [])
 
   const { data: resData, isError } = useQuery({
