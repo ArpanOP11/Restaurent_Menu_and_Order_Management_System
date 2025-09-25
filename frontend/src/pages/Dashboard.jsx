@@ -16,7 +16,7 @@ const tabs = ["Metrics", "Orders", "Payments"];
 const Dashboard = () => {
 
   useEffect(() => {
-    document.title = "POS | Admin Dashboard"
+    document.title = "XanAuthentic | Admin Dashboard"
   }, [])
 
   const [isTableModalOpen, setIsTableModalOpen] = useState(false);
