@@ -48,6 +48,7 @@ https://drive.google.com/drive/folders/1W4jDVNnCo2pVuBZAGqu9pP3zpK4kRiRj
 ## 📋 **Flow Chart for Project Structure**
 
 - 🗺️ **Visualize the Project Structure:** [View Flow Chart]
+https://app.devin.ai/wiki/ArpanOP11/Restaurent_Menu_and_Order_Management_System
 
 ---
 
