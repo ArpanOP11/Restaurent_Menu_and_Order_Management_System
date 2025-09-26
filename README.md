@@ -64,6 +64,11 @@ https://drive.google.com/drive/folders/118t2rqwCmzJhVL2XdoCSRuSGxMJaY-86?usp=sha
 
 ---
 
+## **Deployed Link**
+
+https://restaurent-menu-and-order-management-system-jan1-ayvxiiw6f.vercel.app/
+
+---
 
 ✨ Feel free to explore, contribute, and enhance the project! 🚀
 
